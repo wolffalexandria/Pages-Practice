@@ -23,9 +23,9 @@ So how does one 'chortle'? Follow along to learn the secret:
 2. Open Mouth As Wide As Possible
 3. Extend Tongue While Sucking Air In
 4. Close Mouth Around Ball/Boob And Suck In Strongly
-5. You Will Now Here 'Chortles'
+5. You Will Now Hear 'Chortles'
 
-_If mouth is smaller, you may here closer to a zerbert sound._
+_If mouth is smaller, you may hear closer to a zerbert sound._
 
 ```
 
