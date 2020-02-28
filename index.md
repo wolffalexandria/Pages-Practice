@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## How to Chortle 
 
-You can use the [editor on GitHub](https://github.com/wolffalexandria/Pages-Practice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you're here, than the chance you have watched Silicon Valley are pretty high. We are here to talk specifically about the forever witty Guilfoyle. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A devious character with an ability to cause pain or embarassment with clever retorts. But their is a mystery, a question regarding the meaning of one particular phrase:
 
-### Markdown
+"Chortle on my Balls"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### What Is Chortling?
+
+If we ask merriam-webster, to chortle is to laugh in a breathy, gleeful way; to chuckle.
+
+So what does it mean to chortle on?
+Upon investigaion, we have discovered that to chortle on, you must felate with such vigor and enthusiasm that one sucks ball/breast to the back of the throat--causing the sound we know as chortling. 
+
+So how does one 'chortle'? Follow along to learn the secret:
 
 ```markdown
-Syntax highlighted code block
+**To Chortle Balls**
 
-# Header 1
-## Header 2
-### Header 3
+1. Cup Ball/Boob
+2. Open Mouth As Wide As Possible
+3. Extend Tongue While Sucking Air In
+4. Close Mouth Around Ball/Boob And Suck In Strongly
+5. You Will Now Here 'Chortles'
 
-- Bulleted
-- List
+_If mouth is smaller, you may here closer to a zerbert sound._
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more questions, take to [Google.](https://www.google.com/search?q=chortle+on+my+balls&rlz=1C5CHFA_enUS772US772&oq=chortle&aqs=chrome.0.69i59l2j69i57j0l5.4278j1j7&sourceid=chrome&ie=UTF-8)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wolffalexandria/Pages-Practice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
